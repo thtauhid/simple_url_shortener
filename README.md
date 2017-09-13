@@ -2,8 +2,6 @@
 
 Todos
 
-1. Update code to avoid sql injection.
-2. Database check for duplicate URL.
-3. Check Database for duplicate string.
-4. Create a configuration wizard.
-5. Create Documentation.
+1. Update code to avoid sql injection. (Scheduled 14 September,2017)
+2. Create a configuration wizard.
+3. Create Documentation.
